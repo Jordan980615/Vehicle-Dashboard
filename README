@@ -1,0 +1,15 @@
+
+Package used: 
+npm install express, cors, mongoose, dotenv
+npm install -g nodemon
+npm install bootstrap
+npm install react-router-dom
+npm install react-data-table-component styled-components
+npm install styled-components
+npm install 'react-currency-format';
+
+The local host is running on PORT 8000
+
+link to hosting website: 
+Frontend: http://vehiclefrontend-env.eba-evti5is5.ca-central-1.elasticbeanstalk.com./
+Backend: http://mongorestapi-env.eba-5rrgzkpc.ca-central-1.elasticbeanstalk.com/vehicle
